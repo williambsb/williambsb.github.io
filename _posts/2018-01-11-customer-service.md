@@ -11,7 +11,7 @@ hidden: true
 rating: 4.5
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+Revisão de produtos, livros , filmes e outras coisas .
 
 #### How to use?
 

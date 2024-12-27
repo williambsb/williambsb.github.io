@@ -138,6 +138,7 @@ section.recent-posts {
 
 .listfeaturedtag .card-block {
     padding-left: 0;
+    background-color:aqua;
 }
 
 .listfeaturedtag h2.card-title,
